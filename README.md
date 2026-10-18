@@ -39,15 +39,19 @@ The repository maintains a production-style file schema:
    ```bash
    python main.py
    ```
-   ## 📊 Visualizations & Analytics
+ ## 📊 Visualizations & Analytics
 Below are the data distribution and market analysis plots generated automatically by the pipeline:
 
 ### 1. Target Variable Distribution
 ![Histogram](graphics/1_Histogram.png)
 
-### 2. Market Open vs High/Low Analytics
-![Opening Trends](graphics/3_Opening%20with%20high%20and%20low%20....png)
+### 2. Closure Price Analysis
+![Closure Analysis](graphics/plot_closure.png)
 
-### 3. Closure Price Analytics
-![Closure Analysis](graphics/4%20Closure%20to%20the%20high.png)
+### 3. Market Open vs High/Low Analytics
+![Opening Trends](graphics/plot_opening.png)
+
+### 4. High Price Analysis
+![High Analysis](graphics/plot_high.png)
+
 
