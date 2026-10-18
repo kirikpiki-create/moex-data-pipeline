@@ -46,12 +46,12 @@ Below are the data distribution and market analysis plots generated automaticall
 ![Histogram](Mosbirzha/graphics/1_Histogram.png)
 
 ### 2. Closure Price Analysis
-![Closure Analysis](Mosbirzha/graphics/plot_closure.png)
+![Closure Analysis](Mosbirzha/graphics/2_plot_closure.png)
 
 ### 3. Market Open vs High/Low Analytics
-![Opening Trends](Mosbirzha/graphics/plot_opening.png)
+![Opening Trends](Mosbirzha/graphics/3_plot_opening.png)
 
 ### 4. High Price Analysis
-![High Analysis](Mosbirzha/graphics/plot_high.png)
+![High Analysis](Mosbirzha/graphics/4_plot_high.png)
 
 
