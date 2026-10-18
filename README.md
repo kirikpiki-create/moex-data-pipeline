@@ -8,6 +8,7 @@ This repository contains an end-to-end data pipeline that automates the ingestio
 - **Data Engineering:** Pandas, Requests, Logging Architecture
 - **Machine Learning & Analytics:** Scikit-Learn (Linear Regression), NumPy
 - **Storage:** Local CSV Ingestion Management
+- - **Machine Learning, Analytics & Visualizations:** Scikit-Learn (Linear Regression), NumPy, Matplotlib / Seaborn
 
 ## 🏗️ Pipeline Architecture
 The script operates as a functional modular pipeline executing the following phases:
